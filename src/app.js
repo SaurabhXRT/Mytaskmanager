@@ -25,7 +25,7 @@ const PORT  = process.env.PORT || 5000
 
 //mongoose connection
 
-//const MONGO_URL = 'mongodb+srv://saurabhkumar:OH95dU2CH7WNA4N2@cluster0.3nv2fxg.mongodb.net/taskmanagerdata?retryWrites=true&w=majority'
+
 
 const uri = process.env.MONGO_URL
 //console.log(uri);
